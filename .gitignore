@@ -1,0 +1,17 @@
+#Eclipse metadata
+.classpath
+.project
+.settings
+.DS_Store
+.metadata
+
+#Build results
+target/
+bin/
+module_a/target
+module_b/target
+module_c/target
+
+#External Configuration
+/application.properties
+/.checkstyle
